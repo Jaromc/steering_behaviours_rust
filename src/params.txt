@@ -1,0 +1,5 @@
+wander_distance:200.0
+wander_rate:0.01
+wander_radius:100.0
+window_x:800.0
+window_y:600.0
